@@ -18,8 +18,6 @@ The aim of this project is to :
 
 ### 6. Create a Report
 
-## Data Sources
----
 
 ## Tools Used
 ---
