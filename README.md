@@ -1,4 +1,4 @@
-# LITA-Capstone-Project
+![image](https://github.com/user-attachments/assets/98fca8c3-d85a-45de-8d45-e3d4aecbc8d0)# LITA-Capstone-Project
 ---
 Here, I share a summary of my Project on Data Analysis with Incubator Hub.
 ## Project Overview
@@ -132,7 +132,7 @@ THEN 1 ELSE 0 END) = 0
 ## Visualisation of Sales Data
 ---
 ### 2. Total Sales By Products
-![image](https://github.com/user-attachments/assets/f84dd105-3984-4103-be3a-46c7ea08f3f3)
+
 
 ### 3. Total Sales By Region
 ![image](https://github.com/user-attachments/assets/b778f344-3225-4fdb-aa0e-f5a596515287)
