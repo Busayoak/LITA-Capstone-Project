@@ -53,6 +53,32 @@ We perfored the following to cleanand prepare the data:
 ### 3. Total Sales By Region
 
 ### 4. Total Sales By Month
+Row Labels	 Sum of Total Sales 
+2023	
+Jan	 49,600.00 
+Feb	 247,500.00 
+Mar	 52,395.00 
+Apr	 7,425.00 
+May	 59,640.00 
+Jun	 99,400.00 
+Jul	 237,600.00 
+Aug	 29,880.00 
+Sep	 34,720.00 
+Oct	 133,920.00 
+Nov	 103,950.00 
+Dec	 49,300.00 
+2024	
+Jan	 198,400.00 
+Feb	 298,800.00 
+Mar	 54,780.00 
+Apr	 39,440.00 
+May	 44,640.00 
+Jun	 148,200.00 
+Jul	 37,200.00 
+Aug	 174,300.00 
+Grand Total	 2,101,090.00 
+![image](https://github.com/user-attachments/assets/bd575bb4-a5e0-4cd7-99b1-1d177aa4ca58)
+
 
 ## Metrics Showing Average Sales Per Product and Total Revenue By Region 
 ---
