@@ -49,22 +49,12 @@ We perfored the following to cleanand prepare the data:
 ### 1. Top Selling Products
 
 ### 2. Total Sales By Products
-![image](https://github.com/user-attachments/assets/f84dd105-3984-4103-be3a-46c7ea08f3f3)
 
 ### 3. Total Sales By Region
-![image](https://github.com/user-attachments/assets/b778f344-3225-4fdb-aa0e-f5a596515287)
-
 
 ### 4. Total Sales By Month
-![image](https://github.com/user-attachments/assets/f316959f-80de-49b3-90df-1d37263bc423)
-
 
 ## Average Sales Per Product and Total Revenue By Region 
----
-	
-![image](https://github.com/user-attachments/assets/0d604b3d-b0ae-4501-a977-d0ca6c00d103)
-
-![image](https://github.com/user-attachments/assets/249e8e12-a0b9-488c-bdb2-27db2dbdc6b0)
 
 ## SQL Querries
 ---
@@ -141,6 +131,23 @@ THEN 1 ELSE 0 END) = 0
 
 ## Visualisation of Sales Data
 ---
+### 2. Total Sales By Products
+![image](https://github.com/user-attachments/assets/f84dd105-3984-4103-be3a-46c7ea08f3f3)
+
+### 3. Total Sales By Region
+![image](https://github.com/user-attachments/assets/b778f344-3225-4fdb-aa0e-f5a596515287)
+
+
+### 4. Total Sales By Month
+![image](https://github.com/user-attachments/assets/f316959f-80de-49b3-90df-1d37263bc423)
+
+
+## Average Sales Per Product and Total Revenue By Region 
+---
+	
+![image](https://github.com/user-attachments/assets/0d604b3d-b0ae-4501-a977-d0ca6c00d103)
+
+![image](https://github.com/user-attachments/assets/249e8e12-a0b9-488c-bdb2-27db2dbdc6b0)
 
 ## Findings
 From the report, we found out top selling product is Shoes at 613,380 while Hats as te lowest being 316,195.
