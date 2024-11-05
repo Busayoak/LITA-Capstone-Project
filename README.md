@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/98fca8c3-d85a-45de-8d45-e3d4aecbc8d0)# LITA-Capstone-Project
+# LITA-Capstone-Project
 ---
 Here, I share a summary of my Project on Data Analysis with Incubator Hub.
 ## Project Overview
@@ -131,23 +131,22 @@ THEN 1 ELSE 0 END) = 0
 
 ## Visualisation of Sales Data
 ---
-### 2. Total Sales By Products
+### 1. Total Sales By Products
+![image](https://github.com/user-attachments/assets/0738a877-ded3-4fa6-89bc-dbae2df000b9)
 
+### 2. Total Sales By Region
+![image](https://github.com/user-attachments/assets/1252c328-95f6-47ae-a2d3-5208667362e0)
 
-### 3. Total Sales By Region
-![image](https://github.com/user-attachments/assets/b778f344-3225-4fdb-aa0e-f5a596515287)
-
-
-### 4. Total Sales By Month
-![image](https://github.com/user-attachments/assets/f316959f-80de-49b3-90df-1d37263bc423)
+### 3. Total Sales By Month
+![image](https://github.com/user-attachments/assets/663e183c-bc0e-4c9d-a987-6377a167b0f1)
 
 
 ## Average Sales Per Product and Total Revenue By Region 
 ---
-	
-![image](https://github.com/user-attachments/assets/0d604b3d-b0ae-4501-a977-d0ca6c00d103)
 
-![image](https://github.com/user-attachments/assets/249e8e12-a0b9-488c-bdb2-27db2dbdc6b0)
+![image](https://github.com/user-attachments/assets/d784e751-0aa8-4dc3-8037-c376814c6cbb)
+
+![image](https://github.com/user-attachments/assets/f3dfc745-22f3-40fe-940f-0ec1a85729cf)
 
 ## Findings
 From the report, we found out top selling product is Shoes at 613,380 while Hats as te lowest being 316,195.
